@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ml-explore"
+  site-url: "https://lsa-pilot.github.io/ml-explore"
+  description: "Machine learning wanderings"
+  repo-branch: main
+  repo-url: "https://github.com/lsa-pilot/ml-explore"
